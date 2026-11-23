@@ -1,0 +1,202 @@
+{
+ "id": "01-curupira-pegadas-ao-contrario",
+ "ordem": 1,
+ "formato": "escolha",
+ "estilo": "epico",
+ "motor": "2d",
+ "titulo": "Você segue pegadas viradas ao contrário na mata. Seguir ou voltar? A ou B?",
+ "titulo_youtube": "As pegadas ao contrário na mata: você segue? Lenda do Curupira. A ou B",
+ "titulo_curto": "PEGADAS AO CONTRÁRIO",
+ "thumb_texto": "A OU B: CURUPIRA",
+ "descricao": "Segundo a lenda brasileira, o Curupira é o protetor das matas, com cabelo de fogo e pés virados para trás. Você encontra as pegadas dele. A mais votada vira o próximo vídeo. As versões da lenda variam de região para região.",
+ "comentario_fixado": "A: seguir as pegadas para dentro da mata. B: voltar e deixar uma oferenda. Qual a sua escolha?",
+ "tags": [
+  "curupira",
+  "folclore brasileiro",
+  "lendas brasileiras",
+  "mata",
+  "voce decide",
+  "mitos",
+  "brasil"
+ ],
+ "elenco": {
+  "prot": "caipira",
+  "f": [
+   "curupira",
+   "menino",
+   "vovo"
+  ]
+ },
+ "perfil": "generico",
+ "cenas": [
+  {
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Dizem que na mata vive um protetor com os pés virados para trás."
+    }
+   ],
+   "emocao": "misterioso",
+   "visuais": [
+    "cinematic scene"
+   ],
+   "amb": "mata",
+   "hora": "dia",
+   "fala": "Dizem que na mata vive um protetor com os pés virados para trás.",
+   "destaques": [
+    "trás"
+   ],
+   "cams": [
+    "ampla",
+    "eu-frente",
+    "f0"
+   ]
+  },
+  {
+   "falas": [
+    {
+     "quem": "prot",
+     "texto": "Estas pegadas parecem indo embora, mas o rastro vem na minha direção."
+    },
+    {
+     "quem": "f1",
+     "texto": "Cuidado! Vovô falava dessas marcas!"
+    }
+   ],
+   "emocao": "preocupado",
+   "visuais": [
+    "cinematic scene"
+   ],
+   "amb": "mata",
+   "hora": "dia",
+   "fala": "Estas pegadas parecem indo embora, mas o rastro vem na minha direção. Cuidado! Vovô falava dessas marcas!",
+   "destaques": [
+    "pegadas"
+   ],
+   "cams": [
+    "ampla",
+    "eu-frente",
+    "f0"
+   ]
+  },
+  {
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Segundo a lenda, é o Curupira, o guardião da floresta, com cabelo de fogo e pés ao contrário."
+    }
+   ],
+   "emocao": "surpreso",
+   "visuais": [
+    "cinematic scene"
+   ],
+   "amb": "mata",
+   "hora": "dia",
+   "fala": "Segundo a lenda, é o Curupira, o guardião da floresta, com cabelo de fogo e pés ao contrário.",
+   "destaques": [
+    "Curupira"
+   ],
+   "cams": [
+    "ampla",
+    "eu-frente",
+    "f0"
+   ]
+  },
+  {
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Quem segue o rastro dele se perde na mata, porque o caminho sempre aponta para o lado errado."
+    }
+   ],
+   "emocao": "preocupado",
+   "visuais": [
+    "cinematic scene"
+   ],
+   "amb": "mata",
+   "hora": "tarde",
+   "fala": "Quem segue o rastro dele se perde na mata, porque o caminho sempre aponta para o lado errado.",
+   "destaques": [
+    "perde"
+   ],
+   "cams": [
+    "ampla",
+    "eu-frente",
+    "f0"
+   ]
+  },
+  {
+   "falas": [
+    {
+     "quem": "f2",
+     "texto": "O Curupira castiga quem maltrata a floresta, mas dizem que respeita quem pede licença."
+    },
+    {
+     "quem": "prot",
+     "texto": "Então talvez eu devesse pedir licença."
+    }
+   ],
+   "emocao": "neutro",
+   "visuais": [
+    "cinematic scene"
+   ],
+   "amb": "mata",
+   "hora": "tarde",
+   "fala": "O Curupira castiga quem maltrata a floresta, mas dizem que respeita quem pede licença. Então talvez eu devesse pedir licença.",
+   "destaques": [
+    "licença"
+   ],
+   "cams": [
+    "ampla",
+    "eu-frente",
+    "f0"
+   ]
+  },
+  {
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "A tarde cai, e uma luz alaranjada se move entre as árvores, bem à frente."
+    }
+   ],
+   "emocao": "surpreso",
+   "visuais": [
+    "cinematic scene"
+   ],
+   "amb": "mata",
+   "hora": "entardecer",
+   "fala": "A tarde cai, e uma luz alaranjada se move entre as árvores, bem à frente.",
+   "destaques": [
+    "luz"
+   ],
+   "cams": [
+    "ampla",
+    "eu-frente",
+    "f0"
+   ]
+  },
+  {
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Seguir as pegadas ou voltar e deixar uma oferenda? Comenta A para seguir as pegadas, ou B para voltar. A mais votada vira o próximo vídeo."
+    }
+   ],
+   "emocao": "neutro",
+   "visuais": [
+    "cinematic scene"
+   ],
+   "amb": "mata",
+   "hora": "entardecer",
+   "fala": "Seguir as pegadas ou voltar e deixar uma oferenda? Comenta A para seguir as pegadas, ou B para voltar. A mais votada vira o próximo vídeo.",
+   "destaques": [
+    "escolha"
+   ],
+   "cams": [
+    "ampla",
+    "eu-frente",
+    "f0"
+   ]
+  }
+ ]
+}

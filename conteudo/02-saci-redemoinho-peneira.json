@@ -1,0 +1,202 @@
+{
+ "id": "02-saci-redemoinho-peneira",
+ "ordem": 2,
+ "formato": "escolha",
+ "estilo": "epico",
+ "motor": "2d",
+ "titulo": "Um redemoinho passa pela roça e você ouve uma risada. A ou B?",
+ "titulo_youtube": "O redemoinho do Saci: jogar a peneira ou fingir que não viu? A ou B",
+ "titulo_curto": "O REDEMOINHO DO SACI",
+ "thumb_texto": "A OU B: SACI",
+ "descricao": "Na lenda brasileira, o Saci vive dentro de redemoinhos e adora pregar peças. Dizem que dá para capturá-lo jogando uma peneira. As versões da lenda variam de região para região. A mais votada vira o próximo vídeo.",
+ "comentario_fixado": "A: jogar a peneira no redemoinho. B: fingir que não viu e seguir o caminho. Qual a sua escolha?",
+ "tags": [
+  "saci",
+  "folclore brasileiro",
+  "lendas brasileiras",
+  "redemoinho",
+  "voce decide",
+  "mitos",
+  "brasil"
+ ],
+ "elenco": {
+  "prot": "caipira",
+  "f": [
+   "saci",
+   "menino",
+   "vovo"
+  ]
+ },
+ "perfil": "generico",
+ "cenas": [
+  {
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Dizem que todo redemoinho no meio da roça esconde um saci."
+    }
+   ],
+   "emocao": "misterioso",
+   "visuais": [
+    "cinematic scene"
+   ],
+   "amb": "mata",
+   "hora": "tarde",
+   "fala": "Dizem que todo redemoinho no meio da roça esconde um saci.",
+   "destaques": [
+    "redemoinho"
+   ],
+   "cams": [
+    "ampla",
+    "eu-frente",
+    "f0"
+   ]
+  },
+  {
+   "falas": [
+    {
+     "quem": "prot",
+     "texto": "Olha esse vento! Levantou a poeira e derrubou meu chapéu!"
+    },
+    {
+     "quem": "f1",
+     "texto": "Eu ouvi uma risada, tio!"
+    }
+   ],
+   "emocao": "surpreso",
+   "visuais": [
+    "cinematic scene"
+   ],
+   "amb": "mata",
+   "hora": "tarde",
+   "fala": "Olha esse vento! Levantou a poeira e derrubou meu chapéu! Eu ouvi uma risada, tio!",
+   "destaques": [
+    "risada"
+   ],
+   "cams": [
+    "ampla",
+    "eu-frente",
+    "f0"
+   ]
+  },
+  {
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "O Saci é um menino travesso, de uma perna só, com um gorro vermelho que guarda os seus poderes."
+    }
+   ],
+   "emocao": "feliz",
+   "visuais": [
+    "cinematic scene"
+   ],
+   "amb": "mata",
+   "hora": "tarde",
+   "fala": "O Saci é um menino travesso, de uma perna só, com um gorro vermelho que guarda os seus poderes.",
+   "destaques": [
+    "gorro"
+   ],
+   "cams": [
+    "ampla",
+    "eu-frente",
+    "f0"
+   ]
+  },
+  {
+   "falas": [
+    {
+     "quem": "f2",
+     "texto": "Meu avô dizia que o Saci esconde objetos, azeda o leite e assusta os cavalos."
+    },
+    {
+     "quem": "prot",
+     "texto": "Então foi ele que sumiu com a minha enxada!"
+    }
+   ],
+   "emocao": "surpreso",
+   "visuais": [
+    "cinematic scene"
+   ],
+   "amb": "mata",
+   "hora": "tarde",
+   "fala": "Meu avô dizia que o Saci esconde objetos, azeda o leite e assusta os cavalos. Então foi ele que sumiu com a minha enxada!",
+   "destaques": [
+    "enxada"
+   ],
+   "cams": [
+    "ampla",
+    "eu-frente",
+    "f0"
+   ]
+  },
+  {
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Segundo a tradição, quem joga uma peneira no meio do redemoinho consegue prender o Saci."
+    }
+   ],
+   "emocao": "neutro",
+   "visuais": [
+    "cinematic scene"
+   ],
+   "amb": "mata",
+   "hora": "entardecer",
+   "fala": "Segundo a tradição, quem joga uma peneira no meio do redemoinho consegue prender o Saci.",
+   "destaques": [
+    "peneira"
+   ],
+   "cams": [
+    "ampla",
+    "eu-frente",
+    "f0"
+   ]
+  },
+  {
+   "falas": [
+    {
+     "quem": "f1",
+     "texto": "Eu trouxe a peneira da vovó! Vamos tentar?"
+    }
+   ],
+   "emocao": "feliz",
+   "visuais": [
+    "cinematic scene"
+   ],
+   "amb": "mata",
+   "hora": "entardecer",
+   "fala": "Eu trouxe a peneira da vovó! Vamos tentar?",
+   "destaques": [
+    "peneira"
+   ],
+   "cams": [
+    "ampla",
+    "eu-frente",
+    "f0"
+   ]
+  },
+  {
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Jogar a peneira ou fingir que não viu nada? Comenta A para jogar a peneira, ou B para seguir o caminho. A mais votada vira o próximo vídeo."
+    }
+   ],
+   "emocao": "neutro",
+   "visuais": [
+    "cinematic scene"
+   ],
+   "amb": "mata",
+   "hora": "entardecer",
+   "fala": "Jogar a peneira ou fingir que não viu nada? Comenta A para jogar a peneira, ou B para seguir o caminho. A mais votada vira o próximo vídeo.",
+   "destaques": [
+    "escolha"
+   ],
+   "cams": [
+    "ampla",
+    "eu-frente",
+    "f0"
+   ]
+  }
+ ]
+}

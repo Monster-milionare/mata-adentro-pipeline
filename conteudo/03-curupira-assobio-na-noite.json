@@ -1,0 +1,202 @@
+{
+ "id": "03-curupira-assobio-na-noite",
+ "ordem": 3,
+ "formato": "escolha",
+ "estilo": "epico",
+ "motor": "2d",
+ "titulo": "Um assobio na mata à noite. Você assobia de volta? A ou B?",
+ "titulo_youtube": "O assobio na mata à noite: responder ou ficar quieto? Curupira. A ou B",
+ "titulo_curto": "O ASSOBIO NA NOITE",
+ "thumb_texto": "A OU B: O ASSOBIO",
+ "descricao": "Dizem que o Curupira assobia para confundir quem se aproxima da mata à noite. As versões da lenda variam de região para região. A mais votada vira o próximo vídeo.",
+ "comentario_fixado": "A: assobiar de volta. B: ficar em silêncio e apagar a lanterna. Qual a sua escolha?",
+ "tags": [
+  "curupira",
+  "assobio",
+  "folclore brasileiro",
+  "lendas brasileiras",
+  "noite",
+  "voce decide",
+  "brasil"
+ ],
+ "elenco": {
+  "prot": "caipira",
+  "f": [
+   "curupira",
+   "menino",
+   "vovo"
+  ]
+ },
+ "perfil": "generico",
+ "cenas": [
+  {
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Você acampa na beira da mata. A noite cai, e alguém começa a assobiar."
+    }
+   ],
+   "emocao": "misterioso",
+   "visuais": [
+    "cinematic scene"
+   ],
+   "amb": "mata",
+   "hora": "noite",
+   "fala": "Você acampa na beira da mata. A noite cai, e alguém começa a assobiar.",
+   "destaques": [
+    "assobiar"
+   ],
+   "cams": [
+    "ampla",
+    "eu-frente",
+    "f0"
+   ]
+  },
+  {
+   "falas": [
+    {
+     "quem": "prot",
+     "texto": "Será que tem alguém perdido por aqui?"
+    },
+    {
+     "quem": "f1",
+     "texto": "Não é gente, tio. O assobio vem de todos os lados!"
+    }
+   ],
+   "emocao": "preocupado",
+   "visuais": [
+    "cinematic scene"
+   ],
+   "amb": "mata",
+   "hora": "noite",
+   "fala": "Será que tem alguém perdido por aqui? Não é gente, tio. O assobio vem de todos os lados!",
+   "destaques": [
+    "lados"
+   ],
+   "cams": [
+    "ampla",
+    "eu-frente",
+    "f0"
+   ]
+  },
+  {
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Dizem que o Curupira assobia de um lado para atrair os viajantes para o outro."
+    }
+   ],
+   "emocao": "surpreso",
+   "visuais": [
+    "cinematic scene"
+   ],
+   "amb": "mata",
+   "hora": "noite",
+   "fala": "Dizem que o Curupira assobia de um lado para atrair os viajantes para o outro.",
+   "destaques": [
+    "Curupira"
+   ],
+   "cams": [
+    "ampla",
+    "eu-frente",
+    "f0"
+   ]
+  },
+  {
+   "falas": [
+    {
+     "quem": "f2",
+     "texto": "Conta o povo que ele confunde quem entra na mata sem respeito."
+    },
+    {
+     "quem": "prot",
+     "texto": "Mas ele também protege os bichos, não é?"
+    }
+   ],
+   "emocao": "neutro",
+   "visuais": [
+    "cinematic scene"
+   ],
+   "amb": "mata",
+   "hora": "noite",
+   "fala": "Conta o povo que ele confunde quem entra na mata sem respeito. Mas ele também protege os bichos, não é?",
+   "destaques": [
+    "protege"
+   ],
+   "cams": [
+    "ampla",
+    "eu-frente",
+    "f0"
+   ]
+  },
+  {
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Entre as árvores, vagalumes piscam. Ou será um cabelo de fogo, brilhando mais adiante?"
+    }
+   ],
+   "emocao": "misterioso",
+   "visuais": [
+    "cinematic scene"
+   ],
+   "amb": "mata",
+   "hora": "noite",
+   "fala": "Entre as árvores, vagalumes piscam. Ou será um cabelo de fogo, brilhando mais adiante?",
+   "destaques": [
+    "fogo"
+   ],
+   "cams": [
+    "ampla",
+    "eu-frente",
+    "f0"
+   ]
+  },
+  {
+   "falas": [
+    {
+     "quem": "f1",
+     "texto": "O assobio está cada vez mais perto!"
+    }
+   ],
+   "emocao": "preocupado",
+   "visuais": [
+    "cinematic scene"
+   ],
+   "amb": "mata",
+   "hora": "noite",
+   "fala": "O assobio está cada vez mais perto!",
+   "destaques": [
+    "perto"
+   ],
+   "cams": [
+    "ampla",
+    "eu-frente",
+    "f0"
+   ]
+  },
+  {
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Assobiar de volta ou ficar em silêncio? Comenta A para assobiar de volta, ou B para ficar quieto. A mais votada vira o próximo vídeo."
+    }
+   ],
+   "emocao": "neutro",
+   "visuais": [
+    "cinematic scene"
+   ],
+   "amb": "mata",
+   "hora": "noite",
+   "fala": "Assobiar de volta ou ficar em silêncio? Comenta A para assobiar de volta, ou B para ficar quieto. A mais votada vira o próximo vídeo.",
+   "destaques": [
+    "escolha"
+   ],
+   "cams": [
+    "ampla",
+    "eu-frente",
+    "f0"
+   ]
+  }
+ ]
+}

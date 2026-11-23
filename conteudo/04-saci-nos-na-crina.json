@@ -1,0 +1,202 @@
+{
+ "id": "04-saci-nos-na-crina",
+ "ordem": 4,
+ "formato": "escolha",
+ "estilo": "epico",
+ "motor": "2d",
+ "titulo": "O Saci fez nós na crina do seu cavalo de madrugada. A ou B?",
+ "titulo_youtube": "Nós na crina do cavalo: obra do Saci? Desfazer ou deixar? A ou B",
+ "titulo_curto": "NÓS NA CRINA",
+ "thumb_texto": "A OU B: O CAVALO",
+ "descricao": "Na tradição do interior do Brasil, o Saci faz tranças e nós na crina dos cavalos durante a noite. As versões da lenda variam de região para região. A mais votada vira o próximo vídeo.",
+ "comentario_fixado": "A: desfazer os nós e esperar o Saci voltar. B: deixar os nós e proteger o cavalo. Qual a sua escolha?",
+ "tags": [
+  "saci",
+  "folclore brasileiro",
+  "lendas brasileiras",
+  "cavalo",
+  "voce decide",
+  "mitos",
+  "brasil"
+ ],
+ "elenco": {
+  "prot": "caipira",
+  "f": [
+   "saci",
+   "menino",
+   "vovo"
+  ]
+ },
+ "perfil": "generico",
+ "cenas": [
+  {
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Você acorda cedo e o cavalo está suado, cheio de nós na crina."
+    }
+   ],
+   "emocao": "surpreso",
+   "visuais": [
+    "cinematic scene"
+   ],
+   "amb": "mata",
+   "hora": "manha",
+   "fala": "Você acorda cedo e o cavalo está suado, cheio de nós na crina.",
+   "destaques": [
+    "nós"
+   ],
+   "cams": [
+    "ampla",
+    "eu-frente",
+    "f0"
+   ]
+  },
+  {
+   "falas": [
+    {
+     "quem": "prot",
+     "texto": "Tinha tudo trançado! Quem fez isso?"
+    },
+    {
+     "quem": "f1",
+     "texto": "Foi o Saci, tio! Eu ouvi uma risada de madrugada!"
+    }
+   ],
+   "emocao": "surpreso",
+   "visuais": [
+    "cinematic scene"
+   ],
+   "amb": "mata",
+   "hora": "manha",
+   "fala": "Tinha tudo trançado! Quem fez isso? Foi o Saci, tio! Eu ouvi uma risada de madrugada!",
+   "destaques": [
+    "Saci"
+   ],
+   "cams": [
+    "ampla",
+    "eu-frente",
+    "f0"
+   ]
+  },
+  {
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "No interior do Brasil, dizem que o Saci passa a noite cavalgando os animais e trançando as crinas."
+    }
+   ],
+   "emocao": "neutro",
+   "visuais": [
+    "cinematic scene"
+   ],
+   "amb": "mata",
+   "hora": "manha",
+   "fala": "No interior do Brasil, dizem que o Saci passa a noite cavalgando os animais e trançando as crinas.",
+   "destaques": [
+    "cavalgando"
+   ],
+   "cams": [
+    "ampla",
+    "eu-frente",
+    "f0"
+   ]
+  },
+  {
+   "falas": [
+    {
+     "quem": "f2",
+     "texto": "Antigamente, o povo deixava o cavalo trancado e rezava para o Saci não vir."
+    },
+    {
+     "quem": "prot",
+     "texto": "Será que ele volta hoje?"
+    }
+   ],
+   "emocao": "preocupado",
+   "visuais": [
+    "cinematic scene"
+   ],
+   "amb": "mata",
+   "hora": "dia",
+   "fala": "Antigamente, o povo deixava o cavalo trancado e rezava para o Saci não vir. Será que ele volta hoje?",
+   "destaques": [
+    "volta"
+   ],
+   "cams": [
+    "ampla",
+    "eu-frente",
+    "f0"
+   ]
+  },
+  {
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Os nós parecem feitos por mãos pequenas, num ritmo muito rápido."
+    }
+   ],
+   "emocao": "misterioso",
+   "visuais": [
+    "cinematic scene"
+   ],
+   "amb": "mata",
+   "hora": "dia",
+   "fala": "Os nós parecem feitos por mãos pequenas, num ritmo muito rápido.",
+   "destaques": [
+    "pequenas"
+   ],
+   "cams": [
+    "ampla",
+    "eu-frente",
+    "f0"
+   ]
+  },
+  {
+   "falas": [
+    {
+     "quem": "f1",
+     "texto": "Eu vi um gorro vermelho atrás da cerca!"
+    }
+   ],
+   "emocao": "surpreso",
+   "visuais": [
+    "cinematic scene"
+   ],
+   "amb": "mata",
+   "hora": "tarde",
+   "fala": "Eu vi um gorro vermelho atrás da cerca!",
+   "destaques": [
+    "gorro"
+   ],
+   "cams": [
+    "ampla",
+    "eu-frente",
+    "f0"
+   ]
+  },
+  {
+   "falas": [
+    {
+     "quem": "narrador",
+     "texto": "Desfazer os nós ou proteger o cavalo? Comenta A para desfazer os nós, ou B para deixar e proteger o cavalo. A mais votada vira o próximo vídeo."
+    }
+   ],
+   "emocao": "neutro",
+   "visuais": [
+    "cinematic scene"
+   ],
+   "amb": "mata",
+   "hora": "tarde",
+   "fala": "Desfazer os nós ou proteger o cavalo? Comenta A para desfazer os nós, ou B para deixar e proteger o cavalo. A mais votada vira o próximo vídeo.",
+   "destaques": [
+    "escolha"
+   ],
+   "cams": [
+    "ampla",
+    "eu-frente",
+    "f0"
+   ]
+  }
+ ]
+}
