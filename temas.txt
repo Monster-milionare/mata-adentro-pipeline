@@ -1,0 +1,10 @@
+escolha|Você é madeireiro, está derrubando a mata e o Curupira aparece: A para largar a motosserra ou B para enfrentar ele
+escolha|Você se perdeu na mata e encontrou pegadas ao contrário: A para seguir as pegadas ou B para ficar parado e gritar por ajuda
+escolha|Você é ribeirinha e um moço de chapéu branco te chama pra dançar na festa: A para aceitar ou B para pedir pra ele tirar o chapéu
+escolha|O Saci roubou o seu cavalo à noite: A para colocar uma peneira na porteira ou B para tentar pegar ele com uma garrafa
+escolha|Você caçou mais do que precisava e o Curupira te encontrou: A para pedir desculpa ou B para correr
+pov|POV: você mora na beira do rio e o Boto aparece na noite de festa
+escolha|Você prendeu o Saci numa garrafa: A para pedir um desejo ou B para soltar ele
+pov|POV: a vovó manda você deixar fumo e cachaça pro Curupira antes de entrar na mata
+escolha|Você está acampado e escuta um redemoinho chegando: A para jogar um rosário no meio ou B para fugir pro mato
+escolha|Você é criança e o Curupira te oferece mostrar o caminho de casa: A para ir com ele ou B para esperar a vovó
