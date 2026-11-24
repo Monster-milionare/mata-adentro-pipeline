@@ -1,0 +1,19 @@
+{
+ "data": "2026-11-24",
+ "shorts": [
+  {
+   "slot": 1,
+   "id": "02-saci-redemoinho-peneira",
+   "motor": "2d",
+   "publicar_em": "2026-11-24T15:10:00Z"
+  },
+  {
+   "slot": 2,
+   "id": "03-curupira-assobio-na-noite",
+   "motor": "2d",
+   "publicar_em": "2026-11-24T22:05:00Z"
+  }
+ ],
+ "longo": null,
+ "gerado_em": "2026-11-24T09:27:45+00:00"
+}
