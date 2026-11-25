@@ -1,11 +1,15 @@
 {
- "atualizado": "24/11/2026 10:51 UTC",
+ "atualizado": "25/11/2026 09:46 UTC",
  "tema_peso": {},
  "formato_peso": {},
  "alertas": [
-  "REPETICAO de tema: 'generico' em 3 dos ultimos 3 Shorts.",
-  "2 pares de Shorts seguidos com o mesmo tema.",
-  "Rodizio 2D/3D quebrado nos ultimos 3 Shorts: {'2d': 3}.",
+  "REPETICAO de tema: 'generico' em 4 dos ultimos 4 Shorts.",
+  "3 pares de Shorts seguidos com o mesmo tema.",
+  "CENARIO repetido: 'mata' aparece em 4 dos ultimos 4 Shorts.",
+  "MODELO repetido: 'caipira' aparece em 4 dos ultimos 4 Shorts.",
+  "MODELO repetido: 'menino' aparece em 4 dos ultimos 4 Shorts.",
+  "MODELO repetido: 'vovo' aparece em 4 dos ultimos 4 Shorts.",
+  "Rodizio 2D/3D quebrado nos ultimos 4 Shorts: {'2d': 4}.",
   "ESTOQUE baixo de Shorts 2D liberados: 0 (meta >= 3).",
   "ESTOQUE baixo de Shorts 3D liberados: 0 (meta >= 3)."
  ],
