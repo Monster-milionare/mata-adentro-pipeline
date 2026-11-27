@@ -1,14 +1,14 @@
-# Supervisor geral - Mata Adentro (26/11/2026 09:26 UTC)
+# Supervisor geral - Mata Adentro (27/11/2026 09:38 UTC)
 
 ## Alertas
 
-- REPETICAO de tema: 'generico' em 4 dos ultimos 4 Shorts.
-- 3 pares de Shorts seguidos com o mesmo tema.
-- CENARIO repetido: 'mata' aparece em 4 dos ultimos 4 Shorts.
-- MODELO repetido: 'menino' aparece em 4 dos ultimos 4 Shorts.
-- MODELO repetido: 'caipira' aparece em 4 dos ultimos 4 Shorts.
-- MODELO repetido: 'vovo' aparece em 4 dos ultimos 4 Shorts.
-- Rodizio 2D/3D quebrado nos ultimos 4 Shorts: {'2d': 4}.
+- REPETICAO de tema: 'generico' em 6 dos ultimos 6 Shorts.
+- 5 pares de Shorts seguidos com o mesmo tema.
+- CENARIO repetido: 'mata' aparece em 6 dos ultimos 6 Shorts.
+- MODELO repetido: 'vovo' aparece em 5 dos ultimos 6 Shorts.
+- MODELO repetido: 'caipira' aparece em 4 dos ultimos 6 Shorts.
+- MODELO repetido: 'menino' aparece em 4 dos ultimos 6 Shorts.
+- Rodizio 2D/3D quebrado nos ultimos 6 Shorts: {'2d': 6}.
 - ESTOQUE baixo de Shorts 2D liberados: 0 (meta >= 3).
 - ESTOQUE baixo de Shorts 3D liberados: 0 (meta >= 3).
 
