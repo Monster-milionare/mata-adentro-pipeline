@@ -18,6 +18,8 @@ POV = Path(config.BASE_DIR) / "pov3d"
 # ceu: o cenario mostra o ceu (a hora do dia importa) | fx: efeitos validos (a chave '' = padrao)
 # max_f: quantos figurantes o cenario comporta (alem do protagonista) | vazio: cenario sem personagens
 AMB_2D = {
+    "rio": dict(mostra="beira de rio amazonico: agua com reflexos e vitorias-regias, canoa, barranco, mata do outro lado, ceu (dia, tarde, entardecer ou noite com lua e vaga-lumes)", formato="vertical", ceu=True, fx=[""], max_f=3, horas=["manha", "dia", "tarde", "entardecer", "noite"]),
+    "roca": dict(mostra="sitio no interior: casa de barro com telhado de palha, cerca, terreiro, pasto, arvore grande e serra ao fundo", formato="vertical", ceu=True, fx=[""], max_f=3, horas=["manha", "dia", "tarde", "entardecer", "noite"]),
     "mata": dict(mostra="mata brasileira (Mata Atlantica/Amazonia): arvores altas, palmeiras, samambaias, cipos, trilha de terra, ceu (dia, tarde, entardecer ou noite com lua e vaga-lumes)", formato="ambos", ceu=True, fx=[""], max_f=3, horas=["manha", "dia", "tarde", "entardecer", "noite"]),
     "selva-cretaceo": dict(mostra="selva do Cretaceo com vulcao, dinossauros e lago", formato="vertical", ceu=True, fx=[""], max_f=3,
                            horas=["manha", "dia", "tarde", "entardecer", "impacto", "noite"]),
