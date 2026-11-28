@@ -1,21 +1,21 @@
 {
- "atualizado": "27/11/2026 09:38 UTC",
- "tema_peso": {},
- "formato_peso": {},
+ "atualizado": "28/11/2026 08:52 UTC",
+ "tema_peso": {
+  "generico": 1.0
+ },
+ "formato_peso": {
+  "escolha": 1.0
+ },
  "alertas": [
-  "REPETICAO de tema: 'generico' em 6 dos ultimos 6 Shorts.",
-  "5 pares de Shorts seguidos com o mesmo tema.",
-  "CENARIO repetido: 'mata' aparece em 6 dos ultimos 6 Shorts.",
-  "MODELO repetido: 'vovo' aparece em 5 dos ultimos 6 Shorts.",
-  "MODELO repetido: 'caipira' aparece em 4 dos ultimos 6 Shorts.",
-  "MODELO repetido: 'menino' aparece em 4 dos ultimos 6 Shorts.",
-  "Rodizio 2D/3D quebrado nos ultimos 6 Shorts: {'2d': 6}.",
-  "ESTOQUE baixo de Shorts 2D liberados: 0 (meta >= 3).",
+  "REPETICAO de tema: 'generico' em 5 dos ultimos 8 Shorts.",
+  "4 pares de Shorts seguidos com o mesmo tema.",
+  "CENARIO repetido: 'mata' aparece em 5 dos ultimos 8 Shorts.",
+  "MODELO repetido: 'vovo' aparece em 5 dos ultimos 8 Shorts.",
+  "Rodizio 2D/3D quebrado nos ultimos 8 Shorts: {'2d': 8}.",
   "ESTOQUE baixo de Shorts 3D liberados: 0 (meta >= 3)."
  ],
  "tarefas": [
   "Criar roteiros de OUTROS temas (nao 'generico') e novos cenarios/modelos para sair da mesmice.",
-  "Escrever mais Shorts 2D (temas novos, cenarios novos).",
   "Escrever mais Shorts 3D (temas novos, cenarios novos)."
  ]
 }
